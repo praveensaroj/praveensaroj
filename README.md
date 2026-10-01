@@ -155,4 +155,4 @@ Analyzed nearly 10,000 sales records to identify sales, profitability, discount,
 
 ## 📫 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/praveensaroj/?isSelfProfile=true) • [Email](praveensaroj73@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/praveensaroj/?isSelfProfile=true)
